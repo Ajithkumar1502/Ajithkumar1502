@@ -10,7 +10,7 @@
 
 <!--- snake animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  <img src="https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671116.jpg?t=st=1744967461~exp=1744971061~hmac=0139d7200ed727bd1b06379832c8012aefe1d298b5c5ab0bfdfa7805f2dfe7d3&w=826" alt="snake">
 </div>
 
 <!--h2 without bottom border-->
