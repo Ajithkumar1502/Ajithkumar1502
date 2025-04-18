@@ -1,109 +1,79 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Custom Welcome with Colored Name -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#FF5F6D;">AJITHKUMAR A</span>
+</h1>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm AJITHKUMAR A</h1></summary>
-  </ul>
-</div>
-
-<!--- snake animation -->
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/colorful-welcome-lettering-banner-invite-your-guest-event_1017-50043.jpg?t=st=1744967546~exp=1744971146~hmac=40984ed556bb299a2a451a2a13ae4d70206d7eb676dea79ec3b2baf25d0bdc68&w=1380" alt="snake">
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-<ul>
-<li>
-<p>🔭 I’m currently working on a <strong>Command-line Blog Management Tool using Python and MySQL</strong></p>
-</li>
-<li>
-<p>🌱 I’m learning <strong>FastAPI, LangGraph, and integrating open-source LLMs</strong></p>
-</li>
-<li>
-<p>☁️ I'm also interested in backend development and exploring <strong>Cloud Infrastructure and DevOps</strong></p>
-</li>
-<li>
-<p>📝 I enjoy solving real-world problems and continuously building my developer portfolio.</p>
-</li>
-<li>
-<p>💬 Ask me about <strong>Python, Flask, FastAPI, SQL, or anything backend-related</strong></p>
-</li>
-<li>
-<p>📫 Reach me at: <strong><a href="https://ajithkumar1502.github.io/portfolio-new/">ajithkumar@example.com</a></strong></p>
-</li>
-<li>
-<p>👨‍💻 Open to internship opportunities to grow and contribute to meaningful projects.</p>
-</li>
-</ul>
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
+<!-- Typing Animation (without name) -->
 <p align="center">
-  <!--- stats (start) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;Python+%7C+FastAPI+%7C+MySQL;Always+learning+something+new!" />
 </p>
-<table align="center">
-<tbody><tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajithkumar1502&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajithkumar1502&amp;theme=dark&amp;hide_border=false">
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ajithkumar1502&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-</td>
-</tr>
-</tbody></table>
 
-<!--- trophy (start) -->
+
+<!-- Welcome Banner -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajithkumar1502&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true">
-</div>
-<p></p>        
-<!--- stats (end) -->
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+  <img src="https://img.freepik.com/free-vector/colorful-welcome-lettering-banner-invite-your-guest-event_1017-50043.jpg" width="60%" alt="Welcome Banner">
 </div>
 
-<!--tech stack icons-->
+<!-- Motivational Quote -->
+<h2 align="center"><i>“I'm Software Developer ”</i></h2>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Working on: **Command-line Blog Management Tool (Python + MySQL)**
+- 🌱 Learning: **FastAPI, LangGraph, open-source LLMs**
+- ☁️ Exploring: **Cloud Infrastructure & DevOps**
+- 🛠️ Passionate about solving real-world backend challenges
+- 📫 Reach me: [ajithkumar@example.com](mailto:ajithkumar@example.com)
+- 🤝 Open to internships and collaboration!
+
+---
+
+### 🏆 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajithkumar1502&theme=radical&show_icons=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajithkumar1502&theme=radical" height="180px"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajithkumar1502&layout=compact&theme=radical&langs_count=10" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajithkumar1502&theme=dracula&row=1&column=7" />
+</div>
+
+---
+
+### 🚀 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,sqlite,git,github,linux,postman,html,css,js,react,tailwind,docker,vscode&amp;perline=12">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,sqlite,git,github,linux,postman,html,css,js,react,tailwind,docker,vscode&perline=10" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajithkumarajithkumaraji/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
+  </a>
+  <a href="mailto:ajithkumar@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="50" />
+  </a>
+  <a href="https://github.com/Ajithkumar1502" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="50" />
   </a>
 </p>
 
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+---
 
-<!--icons and links-->
+### 📈 Profile Views
 <p align="center">
-<a href="https://www.linkedin.com/in/ajithkumarajithkumaraji/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50"></a>
-<a href="mailto:ajithkumar@example.com" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" height="50" width="50"></a>
-<a href="https://github.com/Ajithkumar1502" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="50" width="50"></a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ajithkumar1502&icon=3&color=12" />
+  </a>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Ajithkumar1502&amp;icon=3&amp;color=6" alt=""></a></p>
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
-<p>Credit: AJITHKUMAR A</p>
+<!-- Footer Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">Made with ❤️ by AJITHKUMAR A</p>
