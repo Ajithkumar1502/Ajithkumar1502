@@ -10,7 +10,7 @@
 
 <!--- snake animation -->
 <div align="center">
-  <img src="https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671116.jpg?t=st=1744967461~exp=1744971061~hmac=0139d7200ed727bd1b06379832c8012aefe1d298b5c5ab0bfdfa7805f2dfe7d3&w=826" alt="snake">
+  <img src="https://img.freepik.com/free-vector/colorful-welcome-lettering-banner-invite-your-guest-event_1017-50043.jpg?t=st=1744967546~exp=1744971146~hmac=40984ed556bb299a2a451a2a13ae4d70206d7eb676dea79ec3b2baf25d0bdc68&w=1380" alt="snake">
 </div>
 
 <!--h2 without bottom border-->
