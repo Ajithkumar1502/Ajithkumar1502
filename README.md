@@ -38,7 +38,7 @@
 <p>💬 Ask me about <strong>Python, Flask, FastAPI, SQL, or anything backend-related</strong></p>
 </li>
 <li>
-<p>📫 Reach me at: <strong><a href="mailto:ajithkumar@example.com">ajithkumar@example.com</a></strong></p>
+<p>📫 Reach me at: <strong><a href="https://ajithkumar1502.github.io/portfolio-new/">ajithkumar@example.com</a></strong></p>
 </li>
 <li>
 <p>👨‍💻 Open to internship opportunities to grow and contribute to meaningful projects.</p>
